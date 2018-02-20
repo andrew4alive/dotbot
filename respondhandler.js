@@ -51,7 +51,7 @@ function findbracket(stext,unique){
     var regexe = new RegExp(rest,'g');
   //var sta=stext.match(/\{\{(([^\{][^\{]*)|([^\}][^\}]*)|(\}\})|(\{\{))\}\}/g);
     var sta=stext.match(regexe);
-  
+    if(sta==null) return [];
   
   if(unique!=undefined){
 
