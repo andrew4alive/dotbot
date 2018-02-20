@@ -25,3 +25,9 @@ Made by [Fog Creek](https://fogcreek.com/)
 -------------------
 
 \ ゜o゜)ノ
+
+require eviroment variable
+mongourl=
+fbmsgurl=
+VERIFYTOKEN=
+bearer_wit=
