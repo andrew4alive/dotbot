@@ -26,7 +26,7 @@ Made by [Fog Creek](https://fogcreek.com/)
 
 \ ゜o゜)ノ
 
-require eviroment variable
+//require eviroment variable
 mongourl=
 fbmsgurl=
 VERIFYTOKEN=
